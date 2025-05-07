@@ -32,6 +32,14 @@ void inpu()
     }
     
 }
+
+
+void bubbleSortArray()
+{
+    int pass = 1;
+    do
+    
+}
 int main(){
 
     return 0;
