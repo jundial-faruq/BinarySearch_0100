@@ -25,6 +25,11 @@ void inpu()
     cout << "\n==============================================\n";
     cout << "           Masukan Elemen Array                 \n";
     cout << "================================================\n";
+    for (int i = 0; i < nPanjang; i++)
+    {
+        cout << "Data ke-" << (i + 1) << " = ";
+        cin >> elemen[1];
+    }
     
 }
 int main(){
